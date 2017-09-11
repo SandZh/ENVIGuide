@@ -21,8 +21,8 @@ ENVI将许多科学算法捆绑在一起，用于图像处理，其中许多都�
 ![操作截图2](http://xxx.com)
 
 ##xxxxxx
-1.xxxxxx
 
+1.xxxxxx
 
 2.xxxxxx
 
